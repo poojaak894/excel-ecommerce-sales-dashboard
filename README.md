@@ -7,8 +7,9 @@ This project was completed as part of a Data Analytics course. The objective was
 ## Features
 
 - Month-wise Sales and Profit analysis
-- Region-wise Sales analysis
-- Product Category filter using Combo Box
+- Region-wise Sales and Profit analysis
+- Product-wise Sales and Profit analysis
+- Compare actual and predicted profit
 - Interactive column charts
 
 ## Dataset
@@ -34,18 +35,18 @@ The dataset contains E-commerce sales information, including:
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
-- Combo Box (Form Control)
+- Slicer
 - Data Analysis Add-in
 
 ## Dashboard
-
-<img width="1658" height="586" alt="image" src="https://github.com/user-attachments/assets/6cede17d-c6e8-4924-999d-b103be61d418" />
-
+<img width="1587" height="783" alt="image" src="https://github.com/user-attachments/assets/507dff04-efd3-484b-9b0c-c95dc79770f9" />
 
 ## Key Insights
 
 - Identified monthly sales and profit trends.
-- Compared sales performance across regions.
-- Enabled product category filtering for interactive analysis.
+- Compared sales performance and profit across regions.
+- The Central region recorded the highest sales across all product categories.
+- Home and Furniture achieved their highest sales in December, while all other categories peaked in October.
+- Predicted profit was higher than actual profit in every month, but the difference was relatively small.
 - Built a dashboard to support business decision-making.
 
